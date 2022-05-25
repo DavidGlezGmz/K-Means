@@ -17,3 +17,11 @@ Generatation of 3,000 random values for training, 5 random classes, representade
 Calculation of centroids by distance, grouping of 5 different classes:
 
 ![image](https://user-images.githubusercontent.com/86708470/167457191-d0369424-8567-4778-85e6-0bb7b6436aae.png)
+
+
+
+## Emotion Detection and Recognition from Text
+
+Sentiment Analysis aims to detect positive, neutral, or negative feelings from text, whereas Emotion Analysis aims to detect and recognize types of feelings through the expression of texts, such as anger, disgust, fear, happiness, sadness, and surprise.
+
+![image](https://user-images.githubusercontent.com/86708470/170300053-49cf901f-42b6-4def-ace4-3f204c04d2a4.png)
